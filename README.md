@@ -1,4 +1,4 @@
-This is the repository that contains source code for the [CVPR NTIRE 2025 RainDrop Competition website](https://lixinustc.github.io/CVPR-NTIRE2025-RainDrop-Competition.github.io).
+This is the repository that contains source code for the [CVPR NTIRE 2026 RainDrop Competition website](https://lixinustc.github.io/CVPR-NTIRE2026-RainDrop-Competition.github.io).
 
 Please cite:
 ```
